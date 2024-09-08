@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HylyMlJsxec=",
+  "success": true,
+  "projectFilePath": "D:\\Repositorios\\Project-App-.Net-Portafolio\\Portafolio\\Portafolio\\Portafolio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jonat\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
