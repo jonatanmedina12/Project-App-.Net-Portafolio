@@ -1,21 +1,99 @@
-﻿body {
+﻿
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    padding: 20px;
 }
+
 #foto {
     width: 200px;
-    margin: 2rem 0;
-    border-radius: 100px;
-    border:2px solid;
+    height: 200px;
+    margin: 2rem auto;
+    border-radius: 50%;
+    border: 3px solid #3498db;
+    object-fit: cover;
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    transition: transform 0.3s ease;
 }
-.seccion-bienvenida{
-    margin:5rem 0;
-    color:white;
-}
-.seccion-bienvenida h1{
-    margin-bottom:1rem;
-}
-.seccion-bienvenida p{
-    font-family:sans-serif;
-    line-height:1.5;
-    font-size:1.25rem;
 
+    #foto:hover {
+        transform: scale(1.05);
+    }
+
+.seccion-bienvenida {
+    margin: 3rem 0;
+    text-align: center;
+    background-color: white;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.1);
+    list-style:none;
+}
+
+    .seccion-bienvenida h1 {
+        margin-bottom: 1rem;
+        color: #2c3e50;
+        font-size: 2.5rem;
+    }
+
+    .seccion-bienvenida p {
+        font-size: 1.1rem;
+        color: #34495e;
+        max-width: 800px;
+        margin: auto;
+        list-style: none;
+    }
+
+.cabecera {
+    font-weight: bold;
+    color: #3498db;
+}
+
+.habilidades {
+    list-style: none;
+    padding-left: 0;
+}
+
+.habilidades-section {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    padding: 2rem;
+    margin: 1rem;
+    transition: transform 0.3s ease;
+
+}
+
+    .habilidades-section:hover {
+        transform: translateY(-5px);
+    }
+
+    .habilidades-section h3 {
+        color: #2c3e50;
+        font-size: 1.8rem;
+        margin-bottom: 1rem;
+    }
+
+    .habilidades-section ul {
+        padding-left: 20px;
+    }
+
+    .habilidades-section li {
+        margin-bottom: 0.5rem;
+    }
+    .habilidades-section i {
+        color:#3498db;
+        font-size:50px;
+        text-align:center;
+    }
+    .text-primary {
+        color: #3498db;
+    }
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }

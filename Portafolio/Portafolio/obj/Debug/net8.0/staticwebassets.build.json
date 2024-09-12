@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "PwVD9sF+IR4sgpGLG5P9fulbas9Sh8AbNFXnwkmr8Xs=",
+  "Hash": "aya4cUIZMEfXOosReAqYJacGcnuupgZJGxKGhVDBg6Y=",
   "Source": "Portafolio",
   "BasePath": "_content/Portafolio",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Repositorios\\Project-App-.Net-Portafolio\\Portafolio\\Portafolio\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Portafolio.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\Repositorios\\Project-App-.Net-Portafolio\\Portafolio\\Portafolio\\wwwroot\\css\\custom.css",
+      "SourceId": "Portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorios\\Project-App-.Net-Portafolio\\Portafolio\\Portafolio\\wwwroot\\",
+      "BasePath": "_content/Portafolio",
+      "RelativePath": "css/custom.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\custom.css"
     },
     {
       "Identity": "D:\\Repositorios\\Project-App-.Net-Portafolio\\Portafolio\\Portafolio\\wwwroot\\css\\site.css",
