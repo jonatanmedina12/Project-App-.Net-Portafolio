@@ -11,16 +11,24 @@
       "RelativeMoniker": "D:0:0:{8C6407DA-2567-4C1F-B90B-4725C879A223}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C6407DA-2567-4C1F-B90B-4725C879A223}|Portafolio\\Portafolio.csproj|d:\\repositorios\\project-app-.net-portafolio\\portafolio\\portafolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C6407DA-2567-4C1F-B90B-4725C879A223}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8C6407DA-2567-4C1F-B90B-4725C879A223}|Portafolio\\Portafolio.csproj|d:\\repositorios\\project-app-.net-portafolio\\portafolio\\portafolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C6407DA-2567-4C1F-B90B-4725C879A223}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C6407DA-2567-4C1F-B90B-4725C879A223}|Portafolio\\Portafolio.csproj|d:\\repositorios\\project-app-.net-portafolio\\portafolio\\portafolio\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C6407DA-2567-4C1F-B90B-4725C879A223}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6407DA-2567-4C1F-B90B-4725C879A223}|Portafolio\\Portafolio.csproj|d:\\repositorios\\project-app-.net-portafolio\\portafolio\\portafolio\\models\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6407DA-2567-4C1F-B90B-4725C879A223}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\models\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6407DA-2567-4C1F-B90B-4725C879A223}|Portafolio\\Portafolio.csproj|d:\\repositorios\\project-app-.net-portafolio\\portafolio\\portafolio\\views\\home\\_habilidades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C6407DA-2567-4C1F-B90B-4725C879A223}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\_habilidades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6407DA-2567-4C1F-B90B-4725C879A223}|Portafolio\\Portafolio.csproj|d:\\repositorios\\project-app-.net-portafolio\\portafolio\\portafolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C6407DA-2567-4C1F-B90B-4725C879A223}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +38,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Habilidades.cshtml",
+              "DocumentMoniker": "D:\\Repositorios\\Project-App-.Net-Portafolio\\Portafolio\\Portafolio\\Views\\Home\\_Habilidades.cshtml",
+              "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\_Habilidades.cshtml",
+              "ToolTip": "D:\\Repositorios\\Project-App-.Net-Portafolio\\Portafolio\\Portafolio\\Views\\Home\\_Habilidades.cshtml",
+              "RelativeToolTip": "Portafolio\\Views\\Home\\_Habilidades.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T23:43:05.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Proyecto.cs",
+              "DocumentMoniker": "D:\\Repositorios\\Project-App-.Net-Portafolio\\Portafolio\\Portafolio\\Models\\Proyecto.cs",
+              "RelativeDocumentMoniker": "Portafolio\\Models\\Proyecto.cs",
+              "ToolTip": "D:\\Repositorios\\Project-App-.Net-Portafolio\\Portafolio\\Portafolio\\Models\\Proyecto.cs",
+              "RelativeToolTip": "Portafolio\\Models\\Proyecto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:36:26.442Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,14 +74,14 @@
               "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\_Presentacion.cshtml",
               "ToolTip": "D:\\Repositorios\\Project-App-.Net-Portafolio\\Portafolio\\Portafolio\\Views\\Home\\_Presentacion.cshtml",
               "RelativeToolTip": "Portafolio\\Views\\Home\\_Presentacion.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-12T03:40:24.267Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Repositorios\\Project-App-.Net-Portafolio\\Portafolio\\Portafolio\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Portafolio\\Views\\Shared\\_Layout.cshtml",
@@ -55,12 +89,11 @@
               "RelativeToolTip": "Portafolio\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-12T03:33:15.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T03:33:15.499Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Persona.cs",
               "DocumentMoniker": "D:\\Repositorios\\Project-App-.Net-Portafolio\\Portafolio\\Portafolio\\Models\\Persona.cs",
               "RelativeDocumentMoniker": "Portafolio\\Models\\Persona.cs",
@@ -73,13 +106,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Repositorios\\Project-App-.Net-Portafolio\\Portafolio\\Portafolio\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Portafolio\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\Repositorios\\Project-App-.Net-Portafolio\\Portafolio\\Portafolio\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Portafolio\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAwDoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-08T01:39:38.801Z",
               "EditorCaption": ""
@@ -92,7 +125,7 @@
               "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\Repositorios\\Project-App-.Net-Portafolio\\Portafolio\\Portafolio\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Portafolio\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-04T23:49:50.801Z",
               "EditorCaption": ""

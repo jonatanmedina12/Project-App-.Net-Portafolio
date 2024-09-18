@@ -1,15 +1,12 @@
-﻿
-@model Persona
-
-
+﻿@model HomeIndexViewModel
 @{
     ViewData["Title"] = "Home Page";
-
 }
 
 <div class="container">
-    
-    <partial name="_Presentacion" />
+    <partial name="_Presentacion" model="Model.Persona" />
     <partial name="_Habilidades" />
+    <partial name="_SeccionProyectos" />
 
 </div>
+
