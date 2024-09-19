@@ -7,20 +7,32 @@
       "RelativeMoniker": "D:0:0:{8C6407DA-2567-4C1F-B90B-4725C879A223}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C6407DA-2567-4C1F-B90B-4725C879A223}|Portafolio\\Portafolio.csproj|d:\\repositorios\\project-app-.net-portafolio\\portafolio\\portafolio\\views\\home\\_presentacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C6407DA-2567-4C1F-B90B-4725C879A223}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\_presentacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C6407DA-2567-4C1F-B90B-4725C879A223}|Portafolio\\Portafolio.csproj|d:\\repositorios\\project-app-.net-portafolio\\portafolio\\portafolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C6407DA-2567-4C1F-B90B-4725C879A223}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8C6407DA-2567-4C1F-B90B-4725C879A223}|Portafolio\\Portafolio.csproj|d:\\repositorios\\project-app-.net-portafolio\\portafolio\\portafolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C6407DA-2567-4C1F-B90B-4725C879A223}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8C6407DA-2567-4C1F-B90B-4725C879A223}|Portafolio\\Portafolio.csproj|d:\\repositorios\\project-app-.net-portafolio\\portafolio\\portafolio\\models\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6407DA-2567-4C1F-B90B-4725C879A223}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\models\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6407DA-2567-4C1F-B90B-4725C879A223}|Portafolio\\Portafolio.csproj|d:\\repositorios\\project-app-.net-portafolio\\portafolio\\portafolio\\models\\homeindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6407DA-2567-4C1F-B90B-4725C879A223}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\models\\homeindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6407DA-2567-4C1F-B90B-4725C879A223}|Portafolio\\Portafolio.csproj|d:\\repositorios\\project-app-.net-portafolio\\portafolio\\portafolio\\models\\ejemploguidviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6407DA-2567-4C1F-B90B-4725C879A223}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\models\\ejemploguidviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6407DA-2567-4C1F-B90B-4725C879A223}|Portafolio\\Portafolio.csproj|d:\\repositorios\\project-app-.net-portafolio\\portafolio\\portafolio\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6407DA-2567-4C1F-B90B-4725C879A223}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8C6407DA-2567-4C1F-B90B-4725C879A223}|Portafolio\\Portafolio.csproj|d:\\repositorios\\project-app-.net-portafolio\\portafolio\\portafolio\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C6407DA-2567-4C1F-B90B-4725C879A223}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6407DA-2567-4C1F-B90B-4725C879A223}|Portafolio\\Portafolio.csproj|d:\\repositorios\\project-app-.net-portafolio\\portafolio\\portafolio\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C6407DA-2567-4C1F-B90B-4725C879A223}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,60 +42,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Presentacion.cshtml",
-              "DocumentMoniker": "D:\\Repositorios\\Project-App-.Net-Portafolio\\Portafolio\\Portafolio\\Views\\Home\\_Presentacion.cshtml",
-              "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\_Presentacion.cshtml",
-              "ToolTip": "D:\\Repositorios\\Project-App-.Net-Portafolio\\Portafolio\\Portafolio\\Views\\Home\\_Presentacion.cshtml",
-              "RelativeToolTip": "Portafolio\\Views\\Home\\_Presentacion.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-12T03:40:24.267Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Repositorios\\Project-App-.Net-Portafolio\\Portafolio\\Portafolio\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Portafolio\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Repositorios\\Project-App-.Net-Portafolio\\Portafolio\\Portafolio\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Portafolio\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-12T03:33:15.499Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Persona.cs",
-              "DocumentMoniker": "D:\\Repositorios\\Project-App-.Net-Portafolio\\Portafolio\\Portafolio\\Models\\Persona.cs",
-              "RelativeDocumentMoniker": "Portafolio\\Models\\Persona.cs",
-              "ToolTip": "D:\\Repositorios\\Project-App-.Net-Portafolio\\Portafolio\\Portafolio\\Models\\Persona.cs",
-              "RelativeToolTip": "Portafolio\\Models\\Persona.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T01:45:33.954Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Repositorios\\Project-App-.Net-Portafolio\\Portafolio\\Portafolio\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Portafolio\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Repositorios\\Project-App-.Net-Portafolio\\Portafolio\\Portafolio\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Portafolio\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T01:39:38.801Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -92,9 +52,100 @@
               "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\Repositorios\\Project-App-.Net-Portafolio\\Portafolio\\Portafolio\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Portafolio\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAASwCoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-04T23:49:50.801Z",
+              "WhenOpened": "2024-09-19T03:36:53.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Proyecto.cs",
+              "DocumentMoniker": "D:\\Repositorios\\Project-App-.Net-Portafolio\\Portafolio\\Portafolio\\Models\\Proyecto.cs",
+              "RelativeDocumentMoniker": "Portafolio\\Models\\Proyecto.cs",
+              "ToolTip": "D:\\Repositorios\\Project-App-.Net-Portafolio\\Portafolio\\Portafolio\\Models\\Proyecto.cs",
+              "RelativeToolTip": "Portafolio\\Models\\Proyecto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T03:36:48.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EjemploGuidViewModel.cs",
+              "DocumentMoniker": "D:\\Repositorios\\Project-App-.Net-Portafolio\\Portafolio\\Portafolio\\Models\\EjemploGuidViewModel.cs",
+              "RelativeDocumentMoniker": "Portafolio\\Models\\EjemploGuidViewModel.cs",
+              "ToolTip": "D:\\Repositorios\\Project-App-.Net-Portafolio\\Portafolio\\Portafolio\\Models\\EjemploGuidViewModel.cs",
+              "RelativeToolTip": "Portafolio\\Models\\EjemploGuidViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T03:36:46.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Repositorios\\Project-App-.Net-Portafolio\\Portafolio\\Portafolio\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Portafolio\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Repositorios\\Project-App-.Net-Portafolio\\Portafolio\\Portafolio\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Portafolio\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T03:36:46.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeIndexViewModel.cs",
+              "DocumentMoniker": "D:\\Repositorios\\Project-App-.Net-Portafolio\\Portafolio\\Portafolio\\Models\\HomeIndexViewModel.cs",
+              "RelativeDocumentMoniker": "Portafolio\\Models\\HomeIndexViewModel.cs",
+              "ToolTip": "D:\\Repositorios\\Project-App-.Net-Portafolio\\Portafolio\\Portafolio\\Models\\HomeIndexViewModel.cs",
+              "RelativeToolTip": "Portafolio\\Models\\HomeIndexViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T03:36:45.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "D:\\Repositorios\\Project-App-.Net-Portafolio\\Portafolio\\Portafolio\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "Portafolio\\Models\\Persona.cs",
+              "ToolTip": "D:\\Repositorios\\Project-App-.Net-Portafolio\\Portafolio\\Portafolio\\Models\\Persona.cs",
+              "RelativeToolTip": "Portafolio\\Models\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T03:36:44.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Repositorios\\Project-App-.Net-Portafolio\\Portafolio\\Portafolio\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Portafolio\\appsettings.Development.json",
+              "ToolTip": "D:\\Repositorios\\Project-App-.Net-Portafolio\\Portafolio\\Portafolio\\appsettings.Development.json",
+              "RelativeToolTip": "Portafolio\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-19T03:32:20.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Repositorios\\Project-App-.Net-Portafolio\\Portafolio\\Portafolio\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Portafolio\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Repositorios\\Project-App-.Net-Portafolio\\Portafolio\\Portafolio\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Portafolio\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswDMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T03:30:39.452Z",
               "EditorCaption": ""
             }
           ]
