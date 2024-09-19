@@ -9,17 +9,33 @@ namespace Portafolio.Controllers
     {
         private readonly ILogger<HomeController> _logger;
 
-        public RepositorioProyectos RepositorioProyectos { get; }
+        public IRepositorioProyectos RepositorioProyectos { get; }
+        public ServicioDelimitado ServicioDelimitado { get; }
+        public ServicioUnico ServicioUnico { get; }
+        public ServicioTransitorio ServicioTransitorio { get; }
 
-        public HomeController(ILogger<HomeController> logger,RepositorioProyectos repositorioProyectos)
+        public HomeController(ILogger<HomeController> logger,
+            IRepositorioProyectos repositorioProyectos,ServicioDelimitado servicioDelimitado,ServicioUnico servicioUnico 
+            ,ServicioTransitorio servicioTransitorio)
         {
             _logger = logger;
+         
             RepositorioProyectos = repositorioProyectos;
+            ServicioDelimitado = servicioDelimitado;
+            ServicioUnico = servicioUnico;
+            ServicioTransitorio = servicioTransitorio;
         }
 
         public IActionResult Index()
         {
+            _logger.LogInformation("Este es un mensaje de log");
 
+            var gidViewModel = new EjemploGuidViewModel()
+            {
+                Delimitado = ServicioDelimitado.ObtenerGuid,
+                Transitorio = ServicioTransitorio.ObtenerGuid,
+                Unico = ServicioUnico.ObtenerGuid
+            };
             var proyectos = RepositorioProyectos.ObtenerProyectos().Take(3).ToList();
             var persona = new Persona
             {
@@ -29,8 +45,9 @@ namespace Portafolio.Controllers
 
             var modelo = new HomeIndexViewModel()
             {
-                proyectos = proyectos,
-                Persona = persona
+                proyectos = proyectos,  // Cambiar 'proyectos' a 'Proyectos' si actualizaste el modelo
+                Persona = persona,
+                ejemplo1 = gidViewModel
             };
             return View(modelo);
         }

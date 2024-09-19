@@ -1,12 +1,59 @@
 ﻿@model HomeIndexViewModel
 @{
     ViewData["Title"] = "Home Page";
+    var currentTime = DateTime.Now;
+    var isWeekend = currentTime.DayOfWeek == DayOfWeek.Saturday || currentTime.DayOfWeek == DayOfWeek.Sunday;
 }
 
 <div class="container">
+    <h2>Ejemplo 1</h2>
+    <div>Guid transitorio : <b style="color: red">@Model.ejemplo1.Transitorio</b></div>
+    <div>Guid delimitado : <b style="color: green">@Model.ejemplo1.Delimitado</b></div>
+    <div>Guid unico : <b style="color: blue">@Model.ejemplo1.Unico</b></div>
+
+    <hr />
+
+    <h3>Información Adicional</h3>
+    <div>Fecha y hora actual: @currentTime.ToString("dd/MM/yyyy HH:mm:ss")</div>
+    <div>
+        @if (isWeekend)
+        {
+            <p>¡Feliz fin de semana!</p>
+        }
+        else
+        {
+            <p>Días restantes para el fin de semana: @((int)DayOfWeek.Saturday - (int)currentTime.DayOfWeek)</p>
+        }
+    </div>
+
+    @if (Model.Persona.Edad >= 18)
+    {
+        <div>Estado: Adulto</div>
+    }
+    else
+    {
+        <div>Estado: Menor de edad</div>
+    }
+
     <partial name="_Presentacion" model="Model.Persona" />
     <partial name="_Habilidades" />
     <partial name="_SeccionProyectos" />
 
+    @if (Model.ejemplo1.Transitorio != Model.ejemplo1.Delimitado)
+    {
+        <div class="alert alert-info">
+            Los GUIDs transitorio y delimitado son diferentes, como se esperaba.
+        </div>
+    }
+
+    @{
+        var totalProyectos = Model.proyectos;
+    }
+    <div>Total de proyectos: @totalProyectos</div>
 </div>
 
+@section Scripts {
+    <script>
+        console.log("Página cargada el: @currentTime.ToString("yyyy-MM-dd HH:mm:ss")");
+    </script>
+}
